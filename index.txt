@@ -1,4 +1,3 @@
 hello this is a new file
 add more content to new file 
-
-lets remove this text
+as we romoved last line and this is a new line we are adding to git 
