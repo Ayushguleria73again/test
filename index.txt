@@ -1,2 +1,4 @@
 hello this is a new file
-add more content to new filr 
+add more content to new file 
+
+fixed the filr with file the spell mistake 
