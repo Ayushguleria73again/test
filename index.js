@@ -1,6 +1,5 @@
 require("dotenv").config();
-const express = require("express");
-const mongoose = require("mongoose");   
+const express = require("express"); 
 const app = express();
 const port = process.env.PORT ;
 const cors = require('cors');
@@ -12,9 +11,6 @@ app.get('/',(req,res)=>{
     res.send('hello this is  a new line fir the server to check if its working fine')
  res.sendStatus(200)
 })
-
-
-
 app.listen(port,()=>{
     console.log(`server is running on port ${port}`)
 })
